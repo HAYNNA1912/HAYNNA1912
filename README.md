@@ -1,16 +1,15 @@
-## Hi there 👋
+### EAE. Bem vindos ao meu perfil 🇧🇷
 
-<!--
-**HAYNNA1912/HAYNNA1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Haynnã Ghael Maya
 
-Here are some ideas to get you started:
+- Estudo pela plataforma [Alura] (https://www.alura.com.br)
+- Estou aprendendo a linguagem JavaScript
+- Uso esse espaço pra me organizar e compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### me contate por meu email 📫
+
+- haynna.maya@escola.pr.gov.br
+- 
+- @ym_maya
+
+![_](https://media.tenor.com/Q8lyVD-esuYAAAAM/mc.gif)
