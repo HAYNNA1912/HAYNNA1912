@@ -10,6 +10,6 @@ Eu sou Haynnã Ghael Maya
 
 - haynna.maya@escola.pr.gov.br
 - 
-- @ym_maya
+- @xc dela
 
 ![_](https://media.tenor.com/Q8lyVD-esuYAAAAM/mc.gif)
